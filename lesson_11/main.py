@@ -16,7 +16,7 @@ def people():
     print("Пока")
 print('Добро пожаловать в игру!')
 name = input('Как тебя зовут? ')
-print("отлично!", name)
+print("отлично!Добро пожаловаь!", name)
 answ = input("Ты готов начать игру?")
 if answ == 'да':
     people()
